@@ -32,7 +32,7 @@ const Sidebar = () => (
               rel="noreferrer"
               href="https://www.linkedin.com/in/ryan-canton/"
             >
-              <FontAwesomeIcon icon={faLinkedin} color="#4d4de" />
+              <FontAwesomeIcon icon={faLinkedin} color="#4d4d4e" />
             </a>
         </li>
         <li>
@@ -41,7 +41,7 @@ const Sidebar = () => (
               rel="noreferrer"
               href="https://github.com/ryancanton"
             >
-              <FontAwesomeIcon icon={faGithub} color="#4d4de" />
+              <FontAwesomeIcon icon={faGithub} color="#4d4d4e" />
             </a>
         </li>
     </ul>
