@@ -16,7 +16,11 @@ const About = () => {
         </p>
         <p>jkdshfbvkashjdbfvas
           aksdhbvkasdbvc
-          askjdhbv
+          askjdhbv askjdhbv
+        </p>
+        <p>jkdshfbvkashjdbfvas aksdhbvkasdbvc
+          aksdhbvkasdbvc aksdhbvkasdbvc
+          askjdhbv jkdshfbvkashjdbfvas
         </p>
       </div>
     </div>
